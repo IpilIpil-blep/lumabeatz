@@ -297,31 +297,31 @@
   }
 
   .u-section-2 .u-image-1 {
-    height: 366px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
+    height: 334px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-2 .u-image-2 {
-    height: 366px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
+    height: 334px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-2 .u-image-3 {
-    height: 366px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
+    height: 334px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-2 .u-image-4 {
-    height: 366px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
+    height: 334px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
   }
 } .u-section-3 {
   background-image: linear-gradient(to bottom, rgba(39, 68, 114, 0.5), rgba(0, 0, 0, 0.5)), url('images/Shannon-Vaibhav_0833.jpg');
@@ -438,6 +438,11 @@
 .u-section-5 .u-image-1 {
   height: 259px;
   --radius: 20px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
   margin: 44px auto 0 0;
 }
 
@@ -452,6 +457,11 @@
 .u-section-5 .u-image-2 {
   height: 259px;
   --radius: 20px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
   margin: 44px auto 0 0;
 }
 
@@ -466,6 +476,11 @@
 .u-section-5 .u-image-3 {
   height: 259px;
   --radius: 20px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
   margin: 44px auto 0 0;
 }
 
@@ -480,6 +495,11 @@
 .u-section-5 .u-image-4 {
   height: 259px;
   --radius: 20px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
   margin: 44px auto 0 0;
 }
 
@@ -577,27 +597,31 @@
   }
 
   .u-section-5 .u-image-1 {
-    height: 338px;
-    margin-right: initial;
-    margin-left: initial;
+    height: 320px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: 0;
   }
 
   .u-section-5 .u-image-2 {
-    height: 338px;
-    margin-right: initial;
-    margin-left: initial;
+    height: 320px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: 0;
   }
 
   .u-section-5 .u-image-3 {
-    height: 338px;
-    margin-right: initial;
-    margin-left: initial;
+    height: 320px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: 0;
   }
 
   .u-section-5 .u-image-4 {
-    height: 338px;
-    margin-right: initial;
-    margin-left: initial;
+    height: 320px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: 0;
   }
 
   .u-section-5 .u-btn-1 {
@@ -630,21 +654,9 @@
     padding-right: 10px;
   }
 
-  .u-section-5 .u-image-1 {
-    height: 549px;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
   .u-section-5 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-5 .u-image-2 {
-    height: 549px;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-5 .u-container-layout-3 {
@@ -652,21 +664,9 @@
     padding-right: 10px;
   }
 
-  .u-section-5 .u-image-3 {
-    height: 549px;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
   .u-section-5 .u-container-layout-4 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-5 .u-image-4 {
-    height: 549px;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-5 .u-btn-1 {
@@ -690,30 +690,6 @@
 
   .u-section-5 .u-repeater-1 {
     min-height: 1813px;
-  }
-
-  .u-section-5 .u-image-1 {
-    height: 338px;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
-  .u-section-5 .u-image-2 {
-    height: 338px;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
-  .u-section-5 .u-image-3 {
-    height: 338px;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
-  .u-section-5 .u-image-4 {
-    height: 338px;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-5 .u-btn-1 {
